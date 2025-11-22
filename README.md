@@ -1,36 +1,53 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Exercícios de Grafos Resolvidos no LeetCode
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
+**Número da Lista**: 28<br>
+**Conteúdo da Disciplina**: Grafos<br>
+
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 18/0075462 | [Gabriel Freitas Balbino](https://github.com/gabrielfreitass1) |  
+| 19/0094273 | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) |
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+Este projeto tem como objetivo aprofundar o conhecimento em sobre Grafos e seus algoritmos vistos na disciplina de Estrutura de Dados 2, através da resolução de problemas práticos. Vamos trabalhar com 4 questões do LeetCode para consolidar diferentes técnicas de resolução.
+
+Os exercícios abordados são os seguintes:
+| Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
+| ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
+| 1 | []()               | Médio     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
+| 2  | []()               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
+| 3 | []() | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]() |
+| 4 | []() | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução]()  |
+
+## Screenshots
+![Problema 1]() <br>
+*Problema 1 aceitação* <br> <br>
+
+![Problema 2]() <br>
+*Problema 2 aceitação* <br><br>
+
+![Problema 3]() <br>
+*Problema 3 aceitação* <br><br>
+
+![Problema 4]() <br>
+*Problema 4 aceitação* <br> <br>
+
+## Instalação 
+**Linguagem**: Python<br>
+**Framework**: Os códigos rodam diretamenta no [LeetCode](https://leetcode.com/).<br>
+
+## Uso 
+### Acesse o LeetCode
+- Crie uma conta gratuita no LeetCode (caso ainda não tenha).
+- Navegue até a página dos problemas específicos citados acima.
+
+### Execute a Solução
+- No editor de código do LeetCode:
+- Copie e cole a solução fornecida (em Python).
+- Clique no botão Run para testar com os casos de exemplo.
+- Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
+
+### Link da apresentação
+[Vídeo 1]()
+[Vídeo 2]()
