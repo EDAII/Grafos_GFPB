@@ -27,10 +27,10 @@ Os exercícios abordados são os seguintes:
 ![Problema 2]() <br>
 *Problema 2 aceitação* <br><br>
 
-![Problema 765](https://drive.google.com/file/d/1x_1GjiPPj70wtoOj_9M6MJYA0JMtYQpW/view?usp=sharing) <br>
+![Problema 765]([https://drive.google.com/file/d/1x_1GjiPPj70wtoOj_9M6MJYA0JMtYQpW/view?usp=sharing](https://drive.google.com/file/d/1x_1GjiPPj70wtoOj_9M6MJYA0JMtYQpW/view?usp=sharing)) <br>
 *Problema 765 aceitação* <br><br>
 
-![Problema 924]([Problemas_Paulo\IMG\img924.png](https://drive.google.com/file/d/1wU-EvMVT8XEpwjzJgWJNOYTszFxdeOHf/view?usp=sharing)) <br>
+![Problema 924](https://drive.google.com/file/d/1wU-EvMVT8XEpwjzJgWJNOYTszFxdeOHf/view?usp=sharing)](https://drive.google.com/file/d/1wU-EvMVT8XEpwjzJgWJNOYTszFxdeOHf/view?usp=sharing) <br>
 *Problema 924 aceitação* <br> <br>
 
 ## Instalação 
