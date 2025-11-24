@@ -1,4 +1,4 @@
-# [765. Minimizar a Propagação de Malware(Minimize Malware Spread)](https://leetcode.com/problems/minimize-malware-spread/)
+# [924. Minimizar a Propagação de Malware(Minimize Malware Spread)](https://leetcode.com/problems/minimize-malware-spread/)
 
 **Dificuldade:** Difícil  
 **Tópicos:** Grafos
