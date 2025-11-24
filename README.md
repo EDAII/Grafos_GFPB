@@ -49,5 +49,5 @@ Problema 924 - https://drive.google.com/file/d/1wU-EvMVT8XEpwjzJgWJNOYTszFxdeOHf
 - Verifique se a saída corresponde ao esperado ou se aparece **Accepted** na secção **Test Result**.
 
 ### Link da apresentação
-[Vídeo 1]()
+[Vídeo 1](https://drive.google.com/file/d/19TjMwCarvnNynNW2CISY93UW3xV34ed6/view?usp=sharing)
 [Vídeo 2]()
