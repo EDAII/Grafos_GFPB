@@ -17,8 +17,8 @@ Os exercícios abordados são os seguintes:
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 1 | []()               | Médio     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
 | 2  | []()               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
-| 765 | [Couples Holding Hands](Problemas_Paulo\problema765.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo\problema765.py) |
-| 924 | [Minimize Malware Spread](Problemas_Paulo\problema924.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo\problema924.py)  |
+| 765 | [Couples Holding Hands](Problemas_Paulo/problema765.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo/problema765.py) |
+| 924 | [Minimize Malware Spread](Problemas_Paulo/problema924.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo/problema924.py)  |
 
 ## Screenshots
 ![Problema 1]() <br>
