@@ -15,17 +15,17 @@ Este projeto tem como objetivo aprofundar o conhecimento em sobre Grafos e seus 
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 1 | []()               | Médio     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
-| 2  | []()               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução]() |
+| 2065 | [Qualidade Máxima de um Caminho (Maximum Path Quality of a Graph)](./Problemas_Gabriel/problema2065.md)               | Difícil     | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](./Problemas_Gabriel/problema2065.py) |
+| 2092  | [Encontrar Todas as Pessoas com o Segredo (Find All People With Secret)](./Problemas_Gabriel/problema2092.md)               | Difícil        | [Gabriel Freitas Balbino ](https://github.com/gabrielfreitass1 ) | [Solução](./Problemas_Gabriel/problema2092.py) |
 | 765 | [Couples Holding Hands](Problemas_Paulo/problema765.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo/problema765.py) |
 | 924 | [Minimize Malware Spread](Problemas_Paulo/problema924.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](Problemas_Paulo/problema924.py)  |
 
 ## Screenshots (Para acessar as imagens acesse os links)
-![Problema 1]() <br>
-*Problema 1 aceitação* <br> <br>
+![Problema 2065](./Assets/Screenshot%202025-11-24%20at%2021-20-46%20Maximum%20Path%20Quality%20of%20a%20Graph%20-%20LeetCode.png) <br>
+*Problema 2065 aceitação* <br> <br>
 
-![Problema 2]() <br>
-*Problema 2 aceitação* <br><br>
+![Problema 2092](./Assets/Screenshot%202025-11-24%20at%2022-21-25%20Find%20All%20People%20With%20Secret%20-%20LeetCode.png) <br>
+*Problema 2092 aceitação* <br><br>
 
 Problema 765 - https://drive.google.com/file/d/1x_1GjiPPj70wtoOj_9M6MJYA0JMtYQpW/view?usp=sharing <br>
 *Problema 765 aceitação* <br><br>
